@@ -1,3 +1,3 @@
-# website
+# Christopher Newton
 
-### Trying to set-up a personal website
+### My personal website for all of my research, data, and scripts. 
