@@ -4,7 +4,8 @@ title: CV
 ---
 
 # Christopher Newton
-> [cnewton2@buffalo.edu](mailto:cnewton2@buffalo.edu)
+> [email: cnewton2@buffalo.edu](mailto:cnewton2@buffalo.edu)
+
 > [GitHub: newton-c](https://github.com/newton-c/)
 
 ### Education
