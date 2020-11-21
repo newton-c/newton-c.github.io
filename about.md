@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Sample
+This is me trying to figure out how github pages work.
