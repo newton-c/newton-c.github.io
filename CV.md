@@ -24,6 +24,12 @@ title: CV
 - Neocolonialism and Transnational Terrorism: Territorial Causes. Presented during the Peace Science Society, Austin, TX 2018. 
 
 ### Working Papers
+- Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia
+- Rebels, Resources, & Homicide
+- Prediction & Theories of Violence
+- To Kill or Not to Kill: Strategic civilian victimization by rebel groups. With Chhandosi Roy
+- Do Drones Create Blowback? With Colin Tucker
+- Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops? With Michelle Benson, Colin Tucker, and Chhandosi Roy
 
 ### Programing Languages
 - R
