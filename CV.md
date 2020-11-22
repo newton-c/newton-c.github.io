@@ -18,10 +18,10 @@ title: CV
 **CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2020) 
 
 ### Conference Presentations
-- Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops? With Michelle Benson, Colin Tucker, and Chhandosi Roy. Presented during the Peace Science Society, Online 2020. Part of the workshop: What do we know about the United Nations after 75 years?.
-- Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops? With Michelle Benson, Colin Tucker, and Chhandosi Roy. Presented for International Studies Association, Honolulu, HI 2020 (canceled due to Covid-19).
-- Tolerance and Terrorism in the United States. With RJ Haq. Presented for Institutions and Societies: Graduate Student Conference, Albany, NY 2019. 
-- Neocolonialism and Transnational Terrorism: Territorial Causes. Presented during the Peace Science Society, Austin, TX 2018. 
+- *Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops?* With Michelle Benson, Colin Tucker, and Chhandosi Roy. Presented during the Peace Science Society, Online 2020. Part of the workshop: What do we know about the United Nations after 75 years?.
+- *Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops?* With Michelle Benson, Colin Tucker, and Chhandosi Roy. Presented for International Studies Association, Honolulu, HI 2020 (canceled due to Covid-19).
+- *Tolerance and Terrorism in the United States.* With RJ Haq. Presented for Institutions and Societies: Graduate Student Conference, Albany, NY 2019. 
+- *Neocolonialism and Transnational Terrorism: Territorial Causes*. Presented during the Peace Science Society, Austin, TX 2018. 
 
 ### Working Papers
 - Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia
