@@ -4,11 +4,9 @@ title: CV
 ---
 
 # Christopher Newton
----
 > [email: cnewton2@buffalo.edu](mailto:cnewton2@buffalo.edu)
 
 > [GitHub: newton-c](https://github.com/newton-c/)
----
 
 ### Education
 **PhD Political Science** University at Buffalo, SUNY (expected 2021)
@@ -17,7 +15,8 @@ title: CV
 
 **MA Global Affairs** University at Buffalo, SUNY (2020)
 
-**CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2020) 
+**CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2020)  
+
 **BA Music** SUNY Fredonia (2014)
 - Jazz Studies Concentration
 - Spanish Minor
