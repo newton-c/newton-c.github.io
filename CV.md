@@ -4,18 +4,23 @@ title: CV
 ---
 
 # Christopher Newton
+---
 > [email: cnewton2@buffalo.edu](mailto:cnewton2@buffalo.edu)
 
 > [GitHub: newton-c](https://github.com/newton-c/)
+---
 
 ### Education
 **PhD Political Science** University at Buffalo, SUNY (expected 2021)
 
-*Dissertation: The War Ends but the Killing Remains: Criminal Violence in Postconflict States*
+- Dissertation: *The War Ends but the Killing Remains: Criminal Violence in Postconflict States*
 
 **MA Global Affairs** University at Buffalo, SUNY (2020)
 
 **CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2020) 
+**BA Music** SUNY Fredonia (2014)
+- Jazz Studies Concentration
+- Spanish Minor
 
 ### Conference Presentations
 - *Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops?* With Michelle Benson, Colin Tucker, and Chhandosi Roy. Presented during the Peace Science Society, Online 2020. Part of the workshop: What do we know about the United Nations after 75 years?.
