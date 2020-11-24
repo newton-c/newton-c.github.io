@@ -8,7 +8,7 @@ title: CV
 
 > [GitHub: newton-c](https://github.com/newton-c/)
 
-> [Résumé](https://github.com/newton-c/Home/tree/main/assets)
+> [Résumé](https://github.com/newton-c/Home/tree/main/assets/newton_resume.pdf)
 
 ### Education
 **PhD Political Science** University at Buffalo, SUNY (expected 2021)
