@@ -4,7 +4,6 @@ title: Projects
 ---
 See:  
 > [GitHub: newton-c](https://github.com/newton-c/)  
-for scripts and data.   
 
 -------------------------------------------------------------------------------
 
@@ -29,7 +28,7 @@ R: Statistical analysis and data visualization
 
 -------------------------------------------------------------------------------
 
-### Do Drones Create Blowback\?  
+### Do Drones Create Blowback?  
 With Colin Tucker.  
 The policy community has been debating the use of drones for counterterrorism for years. One side argues that their stealth, ability to hover, smaller payloads, and unmanned flight all combine to make drones an effective counterterrorism tool. The other side argues that civilian casualties, and the lack of territorial control actually helps groups recruit more members, and therefor counter productive. Using data from Afghanistan, Pakistan, Somalia, and Yemen, we conduct the first cross-sectional quantitative analysis of these arguments.  
 
@@ -38,7 +37,7 @@ R: GIS, quasi-experimental statistics, and data visualization
 
 -------------------------------------------------------------------------------
 
-### Media \& Murder: the Effect of News Coverage on Postconflict Criminal Violence\*  
+### Media & Murder: the Effect of News Coverage on Postconflict Criminal Violence\*  
 The media we consume effects our beliefs, attitude, and actions. Using coverage of the FARC-EP in Colombian newspapers, I see whether the coverage correlates with subnational variation in homicides since the signing of the peace agreement in 2016.  
 
 #### Methods:  
@@ -46,11 +45,11 @@ Bash: Web scraping
 Perl: Text cleaning and manipulation  
 Python: Sentiment analysis  
 R: Statistical analysis and data visualization  
-> [Scripts and data](https://github.com/newton-c/Dissertation/tree/main/media)
+> [Click here for scripts and data.](https://github.com/newton-c/Dissertation/tree/main/media)
 
 -------------------------------------------------------------------------------
 
-### Rebels, Resources, \& Homicide\*  
+### Rebels, Resources, & Homicide\*  
 This paper builds off of the organizational explanation for violence against civilians proposed in the book *Inside Rebellion: The Politics of Insurgent Violence*, by Jeremy Weinstein. I test whether the dynamics that lead to increased one-sided violence by rebel groups during a conflict continue to increase violence when the conflict ends.  
 
 #### Methods:  
@@ -58,12 +57,12 @@ R: Quasi-experimental statistics
 
 -------------------------------------------------------------------------------
 
-### Prediction \& Theories of Violence\*  
+### Prediction & Theories of Violence\*  
 Numerous theoretical explanations exist for why criminal and postconflict violence exist. Many have strong statistical evidence and are not direct competitors. Given that there could be multiple causes for increases in homicides in a postconflict state, I use machine learning to predict how much violence is likely due to a given explanation. A null model is first optimized to see the accuracy of generic features. Next, theoretical datasets, with features added based on what a theory proposes is causing violence, are used to see how theory-driven models compare to the null model.  
 
 #### Methods:  
 Python: Supervised machine learning (regression)  
-> [Scripts and data](https://github.com/newton-c/Dissertation/tree/main/predict)
+> [Click here for scripts and data.](https://github.com/newton-c/Dissertation/tree/main/predict)
 
 -------------------------------------------------------------------------------
 
