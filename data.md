@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-See:  
+
 > [GitHub: newton-c](https://github.com/newton-c/)  
 
 -------------------------------------------------------------------------------
