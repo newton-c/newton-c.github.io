@@ -33,12 +33,12 @@ title: CV
 - *R for STATA Users*. This is a guide for those already proficient in STATA that would like to make the jump to open source programming using R. The chapters run through statistical techniques, from getting descripting statistics, to advanced regression methods, and shows how to replicate what people would do in STATA using R. The later chapters adds some additional tricks that maybe new as well. 
 
 ### Working Papers
-- Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia
-- Rebels, Resources, & Homicide
-- Prediction & Theories of Violence
-- To Kill or Not to Kill: Strategic civilian victimization by rebel groups. With Chhandosi Roy
-- Do Drones Create Blowback? With Colin Tucker
-- Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops? With Michelle Benson, Colin Tucker, and Chhandosi Roy
+- *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia*
+- *Rebels, Resources, & Homicide*
+- *Prediction & Theories of Violence*
+- *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* With Chhandosi Roy
+- *Do Drones Create Blowback?* With Colin Tucker
+- *Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops?* With Michelle Benson, Colin Tucker, and Chhandosi Roy
 
 ### Programing Languages
 - R
