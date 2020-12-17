@@ -14,8 +14,11 @@ title: CV
 **PhD Political Science** University at Buffalo, SUNY (expected 2022)
 
 - Dissertation: *The War Ends but the Killing Remains: Criminal Violence in Postconflict States*
+  - *Chair:* Prof. Jacob Kathman
+  - *Member:* Prof. Michelle Benson
+  - *Member:* Prof. Jacob Neiheisel 
 
-**MA Global Affairs** University at Buffalo, SUNY (2021)
+**MA Political Science** University at Buffalo, SUNY (2021)
 
 **CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2021)
 
