@@ -11,13 +11,13 @@ title: CV
 > [Résumé](https://github.com/newton-c/Home/tree/main/assets/newton_resume.pdf)
 
 ### Education
-**PhD Political Science** University at Buffalo, SUNY (expected 2021)
+**PhD Political Science** University at Buffalo, SUNY (expected 2022)
 
 - Dissertation: *The War Ends but the Killing Remains: Criminal Violence in Postconflict States*
 
-**MA Global Affairs** University at Buffalo, SUNY (2020)
+**MA Global Affairs** University at Buffalo, SUNY (2021)
 
-**CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2020)  
+**CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2021)
 
 **BA Music** SUNY Fredonia (2014)
 - Jazz Studies Concentration
@@ -30,7 +30,7 @@ title: CV
 - *Neocolonialism and Transnational Terrorism: Territorial Causes*. Presented during the Peace Science Society, Austin, TX 2018.
 
 ### Book Project
-- *R for STATA Users*. This is a guide for those already proficient in STATA that would like to make the jump to open source programming using R. The chapters run through statistical techniques, from getting descripting statistics, to advanced regression methods, and shows how to replicate what people would do in STATA using R. The later chapters adds some additional tricks that maybe new as well.
+- *R for STATA Users*. This is a guide for those already proficient in STATA that would like to make the jump to open source programming using R. The chapters run through statistical techniques, from getting descriptive statistics, to advanced regression methods, and shows how to replicate what people would do in STATA using R. The later chapters adds some additional tricks that maybe new as well.
 
 ### Working Papers
 - *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia*
@@ -43,10 +43,14 @@ title: CV
 ### Software
 - UCDP ID translations
   - For R and Python. Translates the old and new UCDP IDs for actors, conflicts, and dyads.
-  
+
   > [R](https://github.com/newton-c/UCDP_ID_translation_R)
 
-  > [Python](https://github.com/newton-c/UCDP_IT_translation_python)
+  > [Python](https://github.com/newton-c/UCDP_ID_translation_python)
+- Merging statistics
+  - For R. This builds off of the base-R `merge()` function to provide information about how well the two datasets merged. It adds a variables `merge` to the dataset with information on each row (similar to the variable `_merge` in STATA), as well as an output summarizing the merge.
+
+  > [merge.stats](https://github.com/newton-c/merge_stats_R)
 
 ### Programing Languages
 - R
