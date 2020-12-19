@@ -4,7 +4,7 @@ title: Software
 ---
 
 ### UCDP ID translations
-- Packages for R and Python. Translates the old and new UCDP IDs for actors,
+- Packages for R and Python. Translates between the old and new UCDP IDs for actors,
 conflicts, and dyads.
 
   > [R](https://github.com/newton-c/UCDP_ID_translation_R)

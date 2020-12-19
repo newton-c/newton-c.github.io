@@ -16,7 +16,7 @@ title: CV
 - Dissertation: *The War Ends but the Killing Remains: Criminal Violence in Postconflict States*
   - *Chair:* Prof. Jacob Kathman
   - *Member:* Prof. Michelle Benson
-  - *Member:* Prof. Jacob Neiheisel 
+  - *Member:* Prof. Jacob Neiheisel
 
 **MA Political Science** University at Buffalo, SUNY (2021)
 
@@ -45,7 +45,7 @@ title: CV
 
 ### Software
 - UCDP ID translations
-  - For R and Python. Translates the old and new UCDP IDs for actors, conflicts, and dyads.
+  - For R and Python. Translates between the old and new UCDP IDs for actors, conflicts, and dyads.
 
   > [R](https://github.com/newton-c/UCDP_ID_translation_R)
 
