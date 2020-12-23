@@ -3,3 +3,5 @@ github_username: newton-c
 
 #remote_theme: abhinavs/moonwalk
 #theme: minima
+
+theme: jekyll-theme-midnight
