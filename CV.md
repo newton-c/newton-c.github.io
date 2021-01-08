@@ -20,7 +20,7 @@ title: CV
 
 **MA Political Science** University at Buffalo, SUNY (2021)
 
-**CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2021)
+**CAS Data Analysis for Social Sciences** University at Buffalo, SUNY (2020)
 
 **BA Music** SUNY Fredonia (2014)
 - Jazz Studies Concentration
