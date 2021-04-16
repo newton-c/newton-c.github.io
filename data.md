@@ -15,7 +15,7 @@ Ghobarah, Huth, and Russett (2003) show that civil wars can continue to cause ha
 - Presented at Peace Science Society 2020, online as part of the workshop: What do we know about the United Nations after 75 years?
 
 #### Methods:
-R: Statistical analysis and data visualization
+R: Statistical analysis, quasi-experimental methods, missing data problems, and data visualization
 
 -------------------------------------------------------------------------------
 
@@ -24,16 +24,16 @@ With Chhandosi Roy.
 We argue that whether or not it is in the strategic interest of a rebel group to target civilians depends on who the civilians are and how the group recruits. Using a novel dataset on rebel recruitment, we test whether how a group select recruit for the population correlates which the amount of one-sided violence a group commits.
 
 #### Methods:
-R: Statistical analysis and data visualization
+R: Statistical analysis, quasi-experimental methods and data visualization
 
 -------------------------------------------------------------------------------
 
-### Do Drones Create Blowback?
+### Airstrikes and Counterinsurgency?
 With Colin Tucker.
-The policy community has been debating the use of drones for counterterrorism for years. One side argues that their stealth, ability to hover, smaller payloads, and unmanned flight all combine to make drones an effective counterterrorism tool. The other side argues that civilian casualties, and the lack of territorial control actually helps groups recruit more members, and therefor counter productive. Using data from Afghanistan, Pakistan, Somalia, and Yemen, we conduct the first cross-sectional quantitative analysis of these arguments.
+The policy community has been debating the use of airstrikes for counterinsurgency for years. One side argues that their stealth, ability to hover, smaller payloads, and unmanned flight all combine to make drones an effective counterinsurgency tool. The other side argues that civilian casualties, and the lack of territorial control actually helps groups recruit more members, and is therefor counter productive. Using data from Afghanistan, Pakistan, Somalia, and Yemen, we conduct quantitative analysis of these arguments.
 
 #### Methods:
-R: GIS, quasi-experimental statistics, and data visualization
+R: GIS, MLE, and data visualization
 
 -------------------------------------------------------------------------------
 
