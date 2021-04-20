@@ -28,7 +28,7 @@ R: Statistical analysis, quasi-experimental methods and data visualization
 
 -------------------------------------------------------------------------------
 
-### Airstrikes and Counterinsurgency?
+### Airstrikes and Counterinsurgency
 With Colin Tucker.
 The policy community has been debating the use of airstrikes for counterinsurgency for years. One side argues that their stealth, ability to hover, smaller payloads, and unmanned flight all combine to make drones an effective counterinsurgency tool. The other side argues that civilian casualties, and the lack of territorial control actually helps groups recruit more members, and is therefor counter productive. Using data from Afghanistan, Pakistan, Somalia, and Yemen, we conduct quantitative analysis of these arguments.
 

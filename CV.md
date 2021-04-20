@@ -29,6 +29,7 @@ title: CV
 ### Publications
 *Under Review*
 - *From Negative to Positive Peace: Contributions of UN Peacekeeping* With Chhandosi Roy
+- *Airstrikes and Counterinsurgency* With Colin Tucker
 
 
 ### Conference Presentations
@@ -46,9 +47,12 @@ title: CV
 - *Rebels, Resources, & Homicide*
 - *Prediction & Theories of Violence*
 - *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* With Chhandosi Roy
-- *Airstrikes and Counterinsurgency* With Colin Tucker
 - *Displacement Under ISIS* With Colin Tucker and Chhandosi Roy
 - *Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops?* With Michelle Benson, Colin Tucker, and Chhandosi Roy
+
+### Teaching
+#### Undergraduate
+- PCS430: Human Rights (Fall 2021, Spring 2021, Fall 2020)
 
 ### Conferece Attendence
 Peace Science Society (International): 2020, 2019, 2018
