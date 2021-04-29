@@ -88,8 +88,9 @@ Reviewer
 
 
 ### Programing Languages
-- R
-- Python
+- R (tidyverse, rstan, Zelig)
+- Python (Scikit-Learn, Keras, TensorFlow)
+- Julia (turing.jl)
 - Bash/Shell
 - Perl
 - Git/GitHub
