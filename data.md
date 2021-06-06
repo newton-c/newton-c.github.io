@@ -11,6 +11,8 @@ title: Projects
 With Michelle Benson, Colin Tucker, and Chhandosi Roy.
 Ghobarah, Huth, and Russett (2003) show that civil wars can continue to cause harm postconflict as the destruction of heath institutions lead to decreased healthy life expectancy. We replicate the initiation results while adding in a measure of peacekeeping to determine whether the presence of a mission can reduce the negative impact of conflict. We then analyze new data with additional years and improved measures. Are initial findings support the idea the peacekeeping can reduce the damaging effects of conflict on health.
 
+![](/assets/pko_dag.png)
+
 - Accepted to International Studies Association 2020 in Honolulu, HI (canceled due to Covid-19)
 - Presented at Peace Science Society 2020, online as part of the workshop: What do we know about the United Nations after 75 years?
 
