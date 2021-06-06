@@ -42,7 +42,12 @@ The policy community has been debating the use of airstrikes for counterinsurgen
 R: GIS, MLE, and data visualization
 
 -------------------------------------------------------------------------------
+### [Peacekeeping Simulation](https://github.com/newton-c/peacekeeping_simulations)
+These are my attempts at simulating the effects of peacekeeping operations. I'm starting simple and building complexity as I go. Currently, `app.py` is a simulation that looks at the monthly effect of PKO troops on battle-related deaths based on the findings of Hultman, Kathman, & Shannon (2014). It creates a web app using `streamlit` which allows the user to change the values with sliders.
 
+![](/assets/peacekeeping_simulation.gif)
+
+--------------------------------------------------------------------------------
 ### Media & Murder: the Effect of News Coverage on Postconflict Criminal Violence\*
 The media we consume effects our beliefs, attitude, and actions. Using coverage of the FARC-EP in Colombian newspapers, I see whether the coverage correlates with subnational variation in homicides since the signing of the peace agreement in 2016.
 
