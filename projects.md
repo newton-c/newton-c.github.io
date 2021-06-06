@@ -7,7 +7,7 @@ title: Projects
 
 -------------------------------------------------------------------------------
 
-### Can UN Peacekeeping Improve Heath Outcomes Long After the Shooting Stops?
+### [Can UN Peacekeeping Improve Heath Outcomes Long After the Shooting Stops?](https://github.com/newton-c/Can-UN-Peacekeeping-Improve-Health-Outcomes-Long-After-the-Shooting-Stops-)
 With Michelle Benson, Colin Tucker, and Chhandosi Roy.
 Ghobarah, Huth, and Russett (2003) show that civil wars can continue to cause harm postconflict as the destruction of heath institutions lead to decreased healthy life expectancy. We replicate the initiation results while adding in a measure of peacekeeping to determine whether the presence of a mission can reduce the negative impact of conflict. We then analyze new data with additional years and improved measures. Are initial findings support the idea the peacekeeping can reduce the damaging effects of conflict on health.
 
@@ -48,7 +48,7 @@ These are my attempts at simulating the effects of peacekeeping operations. I'm 
 ![](/assets/peacekeeping_simulation.gif)
 
 --------------------------------------------------------------------------------
-### Media & Murder: the Effect of News Coverage on Postconflict Criminal Violence\*
+### [Media & Murder: the Effect of News Coverage on Postconflict Criminal Violence\*](https://github.com/newton-c/Dissertation/tree/main/media)
 The media we consume effects our beliefs, attitude, and actions. Using coverage of the FARC-EP in Colombian newspapers, I see whether the coverage correlates with subnational variation in homicides since the signing of the peace agreement in 2016.
 
 #### Methods:
@@ -56,11 +56,10 @@ Bash: Web scraping
 Perl: Text cleaning and manipulation
 Python: Sentiment analysis
 R: Statistical analysis and data visualization
-> [Click here for scripts and data.](https://github.com/newton-c/Dissertation/tree/main/media)
 
 -------------------------------------------------------------------------------
 
-### Rebels, Resources, & Homicide\*
+### [Rebels, Resources, & Homicide\*](https://github.com/newton-c/rebels_resources_homicide)
 This paper builds off of the organizational explanation for violence against civilians proposed in the book *Inside Rebellion: The Politics of Insurgent Violence*, by Jeremy Weinstein. I test whether the dynamics that lead to increased one-sided violence by rebel groups during a conflict continue to increase violence when the conflict ends.
 
 #### Methods:
@@ -68,12 +67,11 @@ R: Quasi-experimental statistics
 
 -------------------------------------------------------------------------------
 
-### Prediction & Theories of Violence\*
+### [Prediction & Theories of Violence\*](https://github.com/newton-c/Dissertation/tree/main/predict)
 Numerous theoretical explanations exist for why criminal and postconflict violence exist. Many have strong statistical evidence and are not direct competitors. Given that there could be multiple causes for increases in homicides in a postconflict state, I use machine learning to predict how much violence is likely due to a given explanation. A null model is first optimized to see the accuracy of generic features. Next, theoretical datasets, with features added based on what a theory proposes is causing violence, are used to see how theory-driven models compare to the null model.
 
 #### Methods:
 Python: Supervised machine learning (regression)
-> [Click here for scripts and data.](https://github.com/newton-c/Dissertation/tree/main/predict)
 
 -------------------------------------------------------------------------------
 
