@@ -4,4 +4,4 @@ title = "Chris Newton"
 theme = "dimension"
 #canonifyurls = true
 
-#publishDir = "docs"
+publishDir = "docs"
