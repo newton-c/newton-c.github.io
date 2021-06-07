@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bayesian Reading List
+title: Bayesian Readings
 ---
 
 This is a collection of readings and videos that I've personally found useful
