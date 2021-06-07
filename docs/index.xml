@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Bayesian Reading List</title>
+      <title>Bayesian Readings</title>
       <link>https://newton-c.github.io/bayes_readinglist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -40,6 +40,15 @@ by Richard McElreath
 I&amp;rsquo;ve found this to be intuitive, without being overly mathy, while still being rigurours and covering a number of useful topics. The author has also made lectures freely availble here.
 More Advanced Data Analysis Using Regression and Multilevel/Hierarchical Models
 by Andrew Gelman and Jennifer Hill</description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>https://newton-c.github.io/r4su/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://newton-c.github.io/r4su/</guid>
+      <description>R for STATA Users is a book designed to take researchers that are already proficient in STATA, and show them how to do the same analyses in R. The hope is that by starting with what the reader already understands and showing how to replicate their code in R, the transition to open source software will be gentle. After covering the basics, the book then moves on to more R specific lessons that may introduce techniques that aren&amp;rsquo;t commonly seen in STATA.</description>
     </item>
     
     <item>
@@ -57,6 +66,16 @@ CAS Data Analysis for Social Sciences University at Buffalo, SUNY (2020)</descri
     </item>
     
     <item>
+      <title>Data</title>
+      <link>https://newton-c.github.io/rebel_recruitment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://newton-c.github.io/rebel_recruitment/</guid>
+      <description>Rebel Recruitment Dataset A project with Chhandosi Roy collecting data about the populations from which rebels groups recruit.
+Check back soon for the full dataset and related publications.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://newton-c.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,25 +83,6 @@ CAS Data Analysis for Social Sciences University at Buffalo, SUNY (2020)</descri
       <guid>https://newton-c.github.io/projects/</guid>
       <description>GitHub: newton-c
   Can UN Peacekeeping Improve Heath Outcomes Long After the Shooting Stops? With Michelle Benson, Colin Tucker, and Chhandosi Roy. Ghobarah, Huth, and Russett (2003) show that civil wars can continue to cause harm postconflict as the destruction of heath institutions lead to decreased healthy life expectancy. We replicate the initiation results while adding in a measure of peacekeeping to determine whether the presence of a mission can reduce the negative impact of conflict.</description>
-    </item>
-    
-    <item>
-      <title>R for STATA Users</title>
-      <link>https://newton-c.github.io/r4su/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://newton-c.github.io/r4su/</guid>
-      <description>R for STATA Users is a book designed to take researchers that are already proficient in STATA, and show them how to do the same analyses in R. The hope is that by starting with what the reader already understands and showing how to replicate their code in R, the transition to open source software will be gentle. After covering the basics, the book then moves on to more R specific lessons that may introduce techniques that aren&amp;rsquo;t commonly seen in STATA.</description>
-    </item>
-    
-    <item>
-      <title>Rebel Recruitment Dataset</title>
-      <link>https://newton-c.github.io/rebel_recruitment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://newton-c.github.io/rebel_recruitment/</guid>
-      <description>A project with Chhandosi Roy collecting data about the populations from which rebels groups recruit.
-Check back soon for the full dataset and related publications.</description>
     </item>
     
     <item>
