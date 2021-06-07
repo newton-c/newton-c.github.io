@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Newton</title>
+    <link>newton-c.github.io/</link>
+    <description>Recent content on Chris Newton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="newton-c.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>newton-c.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>newton-c.github.io/about/</guid>
+      <description>Welcome to my personal website for all of my research, data, and scripts. I&amp;rsquo;m a PhD candidate in the Department of Political Science at the University at Buffalo, SUNY. My research investigates what can lead to positive peace with a particular focus on reducing criminal violence in postconflict states. I also do work regarding the effects of peacekeeping on public health, how recruitment strategies affect group behavior, and counterinsurgency policy analysis.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>newton-c.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>newton-c.github.io/cv/</guid>
+      <description>Christopher Newton  email: cnewton2@buffalo.edu
+  GitHub: newton-c
+  Résumé
+ Education PhD Political Science University at Buffalo, SUNY (expected 2022)
+ Dissertation: The War Ends but the Killing Remains: Criminal Violence in Postconflict States  Chair: Prof. Jacob Kathman Member: Prof. Michelle Benson Member: Prof. Jacob Neiheisel    MA Political Science University at Buffalo, SUNY (2021)
+CAS Data Analysis for Social Sciences University at Buffalo, SUNY (2020)</description>
+    </item>
+    
+  </channel>
+</rss>
