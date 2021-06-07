@@ -1,4 +1,4 @@
-baseURL = "newton-c.github.io"
+baseURL = "https://newton-c.github.io/"
 languageCode = "en-us"
 title = "Chris Newton"
 theme = "dimension"
