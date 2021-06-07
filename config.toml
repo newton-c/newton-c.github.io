@@ -2,6 +2,6 @@ baseURL = "newton-c.github.io"
 languageCode = "en-us"
 title = "Chris Newton"
 theme = "dimension"
-canonifyurls = true
+#canonifyurls = true
 
-publishDir = "docs"
+#publishDir = "docs"
