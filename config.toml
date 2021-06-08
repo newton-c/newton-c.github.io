@@ -5,3 +5,7 @@ theme = "dimension"
 #canonifyurls = true
 
 publishDir = "docs"
+
+
+[social]
+github= "newton-c"
