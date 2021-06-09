@@ -7,6 +7,13 @@ This is a collection of readings and videos that I've personally found useful
 for learning Bayesian methods.
 
 ## Intoduction to Bayesian Methods
+
+*Bayesian Methods in Political Science: Introduction to the Virtual Issue*
+
+by Jeff Gill
+
+*Political Analysis*, 2012, Vol.20(3), p.1-9 
+
 *[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)*
 
 by Richard McElreath
@@ -50,7 +57,7 @@ by Boris Shor, Joseph Bafumi, Luke Keele, David Park
 
 *Political Analysis*, 2007, Vol.15 (2), p.165-181
 
-*[How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches]()*
+*How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches*
 
 by Daniel Stegmueller
 
