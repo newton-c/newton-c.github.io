@@ -7,13 +7,6 @@ This is a collection of readings and videos that I've personally found useful
 for learning Bayesian methods.
 
 ## Intoduction to Bayesian Methods
-
-*Bayesian Methods in Political Science: Introduction to the Virtual Issue*
-
-by Jeff Gill
-
-*Political Analysis*, 2012, Vol.20(3), p.1-9 
-
 *[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)*
 
 by Richard McElreath
@@ -21,6 +14,22 @@ by Richard McElreath
 I've found this to be intuitive, without being overly mathy, while still
 being rigurours and covering a number of useful topics. The author has also
 made lectures freely availble [here](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI).
+
+*Bayesian Methods in Political Science: Introduction to the Virtual Issue*
+
+by Jeff Gill
+
+The first ~2.5 pages provide a consice summary of how Bayesian methods compare to a likelihood approach, and how political science is Bayesian - even if political sciencets don't acknowledge it. 
+
+*Political Analysis*, 2012, Vol.20(3), p.1-9 
+
+*Bayesian Estimation and Inference: A User’s Guide*
+
+by Michael J. Zyphur and Frederick L. Oswald
+
+A concise summary of what Bayesian inference is, how it contrasts with frequentism, it's advantages, disadvantages, and how to apply it.
+
+*Journal of Management*, 2015, Vol.41(2), p.390-420
 
 ## More Advanced
 *[Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/)*
