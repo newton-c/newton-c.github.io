@@ -6,10 +6,6 @@ title: CV
 # Christopher Newton
 > [email: cnewton2@buffalo.edu](mailto:cnewton2@buffalo.edu)
 
-> [GitHub: newton-c](https://github.com/newton-c/)
-
-> [Résumé](https://github.com/newton-c/Home/tree/main/assets/newton_resume.pdf)
-
 ### Education
 **PhD Political Science** University at Buffalo, SUNY (expected 2022)
 
@@ -52,11 +48,13 @@ title: CV
 
 ### Teaching
 #### Undergraduate
-- PCS430: Human Rights (Fall 2021, Spring 2021, Fall 2020)
+- PCS430: Human Rights (Spring 2021, Fall 2020)
 
 ### Conferece Attendence
 Peace Science Society (International): 2020, 2019, 2018
+
 International Studies Association: 2019
+
 Midwest Political Science Association: 2021
 
 ### Awards
