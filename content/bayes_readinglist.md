@@ -65,7 +65,9 @@ backgrounds. The [PDF](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf) is av
 [course material](https://github.com/avehtari/BDA_course_Aalto).
 
 ---
-## Choosing Priors *[Elicited Priors for Bayesian Model Specifications in Political Science](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1089&context=poli_facpub)*
+## Choosing Priors
+
+*[Elicited Priors for Bayesian Model Specifications in Political Science](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1089&context=poli_facpub)*
 
 by Jeff Gill and Lee D. Walker
 
