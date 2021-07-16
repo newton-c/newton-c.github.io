@@ -6,6 +6,8 @@ title: CV
 # Christopher Newton
 > [email: cnewton2@buffalo.edu](mailto:cnewton2@buffalo.edu)
 
+> [Résumé](https://github.com/newton-c/newton-c.github.io/tree/main/content/assets/newton_resume.pdf)
+
 ### Education
 **PhD Political Science** University at Buffalo, SUNY (expected 2022)
 
