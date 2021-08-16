@@ -40,7 +40,7 @@ title: CV
 - *Neocolonialism and Transnational Terrorism: Territorial Causes*. Presented during the Peace Science Society, Austin, TX 2018.
 
 ### Book Project
-- *R for STATA Users*. This is a guide for those already proficient in STATA that would like to make the jump to open source programming using R. The chapters run through statistical techniques, from getting descriptive statistics, to advanced regression methods, and shows how to replicate what people would do in STATA using R. The later chapters adds some additional tricks that maybe new as well.
+- A guide for those already proficient in STATA that would like to make the jump to open source programming using R. The chapters run through statistical techniques, from getting descriptive statistics, to advanced regression methods, and shows how to replicate what people would do in STATA using R. The later chapters adds some additional tricks that maybe new as well.
 
 ### Working Papers
 - *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia*
