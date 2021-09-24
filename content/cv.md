@@ -24,9 +24,10 @@ layout: page title: CV
 - Spanish Minor
 
 ### Publications
+1. *Airstrikes and Counterinsurgency* (with Colin Tucker). Forthcoming. *Security Studies*
+
 *Under Review*
-- *From Negative to Positive Peace: Contributions of UN Peacekeeping* With Chhandosi Roy
-- *Airstrikes and Counterinsurgency* With Colin Tucker
+- *Peacekeeping and Peace* With Chhandosi Roy, Colin Tucker, and Jake Kathman
 
 
 ### Conference Presentations
