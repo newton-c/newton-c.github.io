@@ -28,7 +28,17 @@ title: CV
 - *Airstrikes and Counterinsurgency* (with Colin Tucker). Forthcoming. *Security Studies*
 
 *Under Review*
-- *Peacekeeping and Peace* (with Chhandosi Roy, Colin Tucker, and Jake Kathman)
+- *Peacekeeping and Peace* (with Jake Kathman, Chhandosi Roy, and Colin Tucker)
+
+### Working Papers
+- *The Lasting Health Impact of UN Peacekeeping* (with Michelle Benson, Chhandosi Roy, and Colin Tucker)
+- *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* (with Chhandosi Roy)
+- *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia\**
+- *Rebels, Resources, & Homicide\**
+- *Child Soldier and Grown-Up Gangsters\**
+- *Displacement Under ISIS* (with Colin Tucker and Chhandosi Roy)
+
+\* Part of my dissertation
 
 
 ### Conference Presentations
@@ -41,17 +51,9 @@ title: CV
 ### Book Project
 - A guide for those already proficient in STATA that would like to make the jump to open source programming using R. The chapters run through statistical techniques, from getting descriptive statistics, to advanced regression methods, and shows how to replicate what people would do in STATA using R. The later chapters adds some additional tricks that maybe new as well.
 
-### Working Papers
-- *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia*
-- *Rebels, Resources, & Homicide*
-- *Prediction & Theories of Violence*
-- *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* With Chhandosi Roy
-- *Displacement Under ISIS* With Colin Tucker and Chhandosi Roy
-- *Can UN Peacekeeping Improve Health Outcomes Long After the Shooting Stops?* With Michelle Benson, Colin Tucker, and Chhandosi Roy
-
 ### Teaching
 #### Undergraduate
-- PCS430: Human Rights (Spring 2021, Fall 2020)
+- PCS430: Human Rights (Spring 2022, Spring 2021, Fall 2020)
 
 ### Conferece Attendence
 Peace Science Society (International): 2020, 2019, 2018
