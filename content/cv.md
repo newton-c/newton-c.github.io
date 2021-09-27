@@ -24,10 +24,10 @@ layout: page title: CV
 - Spanish Minor
 
 ### Publications
-1. *Airstrikes and Counterinsurgency* (with Colin Tucker). Forthcoming. *Security Studies*
+- *Airstrikes and Counterinsurgency* (with Colin Tucker). Forthcoming. *Security Studies*
 
 *Under Review*
-- *Peacekeeping and Peace* With Chhandosi Roy, Colin Tucker, and Jake Kathman
+- *Peacekeeping and Peace* (with Chhandosi Roy, Colin Tucker, and Jake Kathman)
 
 
 ### Conference Presentations
