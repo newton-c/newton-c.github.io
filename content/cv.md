@@ -1,5 +1,6 @@
 ---
-layout: page title: CV
+layout: page
+title: CV
 ---
 
 # Christopher Newton
