@@ -35,7 +35,7 @@ title: CV
 - *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* (with Chhandosi Roy)
 - *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia\**
 - *Rebels, Resources, & Homicide\**
-- *Child Soldier and Grown-Up Gangsters\**
+- *Child Soldiers and Grown-Up Gangsters\**
 - *Displacement Under ISIS* (with Colin Tucker and Chhandosi Roy)
 
 \* Part of my dissertation
