@@ -3,11 +3,15 @@ layout: page
 title: Readings
 ---
 
+[Methods](#methods)
+[Writing](#writing)
+
+# Methods
 This is a collection of readings and videos that I've personally found useful
 for learning Bayesian methods.
 
 ## Intoduction to Bayesian Methods
-*[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)*
+[*Statistical Rethinking*](https://xcelab.net/rm/statistical-rethinking/)
 
 by Richard McElreath
 
@@ -35,7 +39,7 @@ A concise summary of what Bayesian inference is, how it contrasts with frequenti
 
 ---
 ## More Advanced
-*[Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/)*
+[*Data Analysis Using Regression and Multilevel/Hierarchical Models*](http://www.stat.columbia.edu/~gelman/arm/)
 
 by Andrew Gelman and Jennifer Hill
 
@@ -44,7 +48,7 @@ know, with plenty of examples in R. The author have since updated the first part
 isn't out yet.
 
 ---
-*[Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)*
+[*Regression and Other Stories*](https://avehtari.github.io/ROS-Examples/)
 
 by Andrew Gelman, Jennifer Hill, and Aki Vehtari
 
@@ -75,7 +79,7 @@ by Jeff Gill and Lee D. Walker
 
 ---
 
-*[A Weakly Informative Default Prior Distribution for Logistic and Other Regression Models](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-4/A-weakly-informative-default-prior-distribution-for-logistic-and-other/10.1214/08-AOAS191.full)*
+[*A Weakly Informative Default Prior Distribution for Logistic and Other Regression Models*](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-4/A-weakly-informative-default-prior-distribution-for-logistic-and-other/10.1214/08-AOAS191.full)
 
 by Andrew Gelman, Aleks Jakulin, Maria Grazia Pittau, and Yu-Sung Su
 
@@ -84,7 +88,7 @@ by Andrew Gelman, Aleks Jakulin, Maria Grazia Pittau, and Yu-Sung Su
 ---
 
 ## Time-Series Cross-Sectional Data
-*[A Bayesian Multilevel Modeling Approach to Time-Series Cross-Sectional Data](https://www.cambridge.org/core/journals/political-analysis/article/abs/bayesian-multilevel-modeling-approach-to-timeseries-crosssectional-data/C8345F30FE7CBF04B71ECFC321869D1F)*
+[*A Bayesian Multilevel Modeling Approach to Time-Series Cross-Sectional Data*](https://www.cambridge.org/core/journals/political-analysis/article/abs/bayesian-multilevel-modeling-approach-to-timeseries-crosssectional-data/C8345F30FE7CBF04B71ECFC321869D1F)
 
 by Boris Shor, Joseph Bafumi, Luke Keele, David Park
 
@@ -99,7 +103,7 @@ by Daniel Stegmueller
 
 ---
 ## Popular Press
-*[The Theory That Would Not Die: How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy](http://www.mcgrayne.com/the_theory_that_would_not_die__how_bayes__rule_cracked_the_enigma_code__hunted_do_107493.htm)*
+[*The Theory That Would Not Die: How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy*](http://www.mcgrayne.com/the_theory_that_would_not_die__how_bayes__rule_cracked_the_enigma_code__hunted_do_107493.htm)
 
 by Sharon Bertsch McGrayne
 
@@ -109,3 +113,18 @@ applications is a wide variety of fields. Sharon Bertsch McGrayne does a great
 job developing the difference between Bayesian and frequentist definitions of
 probability and showing obstacles that kept Bayesian methods from being the
 default for so long.
+
+# Writing
+*The Elements of Style*
+
+by William Strunk Jr. & E. B. White
+
+---
+*Stylish Academic Writing*
+
+by Helen Sword
+
+---
+[*Why I Write*](https://gutenberg.net.au/ebooks03/0300011h.html#part47)
+
+by George Orwell 

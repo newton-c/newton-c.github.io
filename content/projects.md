@@ -7,7 +7,7 @@ title: Projects
 
 -------------------------------------------------------------------------------
 
-### [Can UN Peacekeeping Improve Heath Outcomes Long After the Shooting Stops?](https://github.com/newton-c/Can-UN-Peacekeeping-Improve-Health-Outcomes-Long-After-the-Shooting-Stops-)
+### [The Lasting Health Impact of UN Peacekeeping](https://github.com/newton-c/Can-UN-Peacekeeping-Improve-Health-Outcomes-Long-After-the-Shooting-Stops-)
 With Michelle Benson, Colin Tucker, and Chhandosi Roy.
 Ghobarah, Huth, and Russett (2003) show that civil wars can continue to cause harm postconflict as the destruction of heath institutions lead to decreased healthy life expectancy. We replicate the initiation results while adding in a measure of peacekeeping to determine whether the presence of a mission can reduce the negative impact of conflict. We then analyze new data with additional years and improved measures. Are initial findings support the idea the peacekeeping can reduce the damaging effects of conflict on health.
 
@@ -35,6 +35,7 @@ R: Statistical analysis, quasi-experimental methods and data visualization
 
 ### Airstrikes and Counterinsurgency
 With Colin Tucker.
+Forthcoming in *Security Studies*
 The policy community has been debating the use of airstrikes for counterinsurgency for years. One side argues that their stealth, ability to hover, smaller payloads, and unmanned flight all combine to make drones an effective counterinsurgency tool. The other side argues that civilian casualties, and the lack of territorial control actually helps groups recruit more members, and is therefor counter productive. Using data from Afghanistan, Pakistan, Somalia, and Yemen, we conduct quantitative analysis of these arguments.
 
 
