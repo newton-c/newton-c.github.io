@@ -4,6 +4,7 @@ title: Readings
 ---
 
 [Methods](#methods)
+
 [Writing](#writing)
 
 # Methods
@@ -113,6 +114,8 @@ applications is a wide variety of fields. Sharon Bertsch McGrayne does a great
 job developing the difference between Bayesian and frequentist definitions of
 probability and showing obstacles that kept Bayesian methods from being the
 default for so long.
+
+---
 
 # Writing
 *The Elements of Style*
