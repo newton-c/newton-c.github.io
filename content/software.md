@@ -9,7 +9,7 @@ conflicts, and dyads.
 
   > [R](https://newton-c.github.io/UCDP_ID_translation_R/)
 
-  > [Python](https://github.com/newton-c/UCDP_ID_translation_python)
+  <!-- > [Python](https://github.com/newton-c/UCDP_ID_translation_python)-->
 
 
 ### Merging statistics
