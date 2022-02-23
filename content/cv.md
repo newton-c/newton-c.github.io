@@ -28,7 +28,7 @@ title: CV
 - *Airstrikes and Counterinsurgency* (with Colin Tucker). Forthcoming. *Security Studies*
 
 *Under Review*
-- *Peacekeeping and Peace* (with Jake Kathman, Chhandosi Roy, and Colin Tucker)
+- *Pursuing Peacekeeping’s Many ‘Peaces’* (with Jake Kathman, Chhandosi Roy, and Colin Tucker)
 - *The Lasting Health Impact of UN Peacekeeping* (with Michelle Benson, Chhandosi Roy, and Colin Tucker)
 - *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* (with Chhandosi Roy)
 
