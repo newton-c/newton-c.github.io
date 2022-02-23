@@ -29,10 +29,10 @@ title: CV
 
 *Under Review*
 - *Peacekeeping and Peace* (with Jake Kathman, Chhandosi Roy, and Colin Tucker)
-
-### Working Papers
 - *The Lasting Health Impact of UN Peacekeeping* (with Michelle Benson, Chhandosi Roy, and Colin Tucker)
 - *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* (with Chhandosi Roy)
+
+### Working Papers
 - *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia\**
 - *Rebels, Resources, & Homicide\**
 - *Child Soldiers and Grown-Up Gangsters\**
