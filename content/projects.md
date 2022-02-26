@@ -42,7 +42,7 @@ The policy community has been debating the use of airstrikes for counterinsurgen
 {{< figure src="/assets/airstrike_counts.png" height="80%" width="100%">}}
 
 #### Methods:
-R: GIS, MLE, and data visualization
+R: GIS, spatial modeling, matching, and data visualization
 
 -------------------------------------------------------------------------------
 ### [Peacekeeping Simulation](https://github.com/newton-c/peacekeeping_simulations)
@@ -56,9 +56,8 @@ These are my attempts at simulating the effects of peacekeeping operations. I'm 
 The media we consume effects our beliefs, attitude, and actions. Using coverage of the FARC-EP in Colombian newspapers, I see whether the coverage correlates with subnational variation in homicides since the signing of the peace agreement in 2016.
 
 #### Methods:
-Bash: Web scraping
-Perl: Text cleaning and manipulation
-Python: Sentiment analysis
+Python: Scrapy, Sentiment analysis
+
 R: Statistical analysis and data visualization
 
 -------------------------------------------------------------------------------
@@ -68,14 +67,6 @@ This paper builds off of the organizational explanation for violence against civ
 
 #### Methods:
 R: Quasi-experimental statistics
-
--------------------------------------------------------------------------------
-
-### [Prediction & Theories of Violence\*](https://github.com/newton-c/Dissertation/tree/main/predict)
-Numerous theoretical explanations exist for why criminal and postconflict violence exist. Many have strong statistical evidence and are not direct competitors. Given that there could be multiple causes for increases in homicides in a postconflict state, I use machine learning to predict how much violence is likely due to a given explanation. A null model is first optimized to see the accuracy of generic features. Next, theoretical datasets, with features added based on what a theory proposes is causing violence, are used to see how theory-driven models compare to the null model.
-
-#### Methods:
-Python: Supervised machine learning (regression)
 
 -------------------------------------------------------------------------------
 
