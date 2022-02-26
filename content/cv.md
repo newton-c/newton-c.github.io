@@ -91,8 +91,8 @@ Reviewer
 
 
 ### Programing Languages
-- R (tidyverse, rstan, Zelig)
-- Python (Scikit-Learn, Keras, TensorFlow)
+- R (tidyverse, rstan, rgeos, Zelig)
+- Python (Scrapy, Scikit-Learn, Keras, TensorFlow)
 - Julia (turing.jl)
 - Bash/Shell
 - Perl
@@ -102,4 +102,4 @@ Reviewer
 ### Spoken Languages
 - English (native)
 - Spanish (fluent)
-- French (intermediate)
+- French (advanced reading, intermediate all other skills)
