@@ -11,4 +11,4 @@ title: Teaching
 
 [Introduction to Statistics with R](https://github.com/newton-c/newton-c.github.io/tree/main/content/assets/Newton_Syllabus_Intro_Stats.pdf)
 
-[Bayesian Statistics](https://github.com/newton-c/newton-c.github.io/tree/main/content/assets/Newton_Syllabus_Bayesian_stats.pdf)
+[Bayesian Statistics](https://github.com/newton-c/newton-c.github.io/tree/main/content/assets/Newton_Syllabus_Bayesian_Stats.pdf)
