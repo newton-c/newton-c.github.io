@@ -53,7 +53,14 @@ title: CV
 
 ### Teaching
 #### Undergraduate
+University at Buffalo, SUNY
+
 - PCS430: Human Rights (Spring 2022, Spring 2021, Fall 2020)
+
+Prepared
+
+- Intro to Statistics with R
+- Bayesian Statistics
 
 ### Conferece Attendence
 Peace Science Society (International): 2020, 2019, 2018
