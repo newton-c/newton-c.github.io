@@ -30,7 +30,7 @@ Instead of standing up for its people, the Guatemalan government has decided to 
 
 Colombians will head to the polls on May 29th. Eight candidates have made it on the ballot to become Colombia’s next leader; here’s who they are.
 
-The System
+#### The System
 
 The Colombian constitution binds presidents to a single, four-year term, so the incumbent Iván Duque Márquez won’t appear on the ballot.
 
@@ -38,7 +38,7 @@ Presidential elections have two rounds. On May 29th, voters choose from any of t
 
 Colombia has three major coalitions representing the major candidates: the Historic Pact for Colombia (Pacto Historico por Colombia), the Team for Colombia Coalition (Coalición Equipo por Colombia), and the Hope Center Coalition (Coalición Centro Esperanza) with five others running with smaller parties or as independents.
 
-[The Candidates](https://www.eltiempo.com/elecciones-2022/presidencia/candidatos-presidenciales-2022-estos-seran-los-10-aspirantes-658228)
+#### [The Candidates](https://www.eltiempo.com/elecciones-2022/presidencia/candidatos-presidenciales-2022-estos-seran-los-10-aspirantes-658228)
 
 Wining 3 million votes, Gustavo Perto of the Historic Pact for Colombia party [received more support](https://markets.businessinsider.com/news/stocks/colombias-looming-presidential-election-is-set-to-be-historic-1031361612?op=1) than any other candidate during the primaries. The former M-19 militant is an economist and notable figure of the Colombian Left. Previously mayor of Bogotá (2011-13), representative, and senator, Petro made it to the second round of the 2018 presidential election before losing to Duque.
 
@@ -60,7 +60,7 @@ Just and Free Colombia candidate, John Milton Rodríguez was elected to the sena
 
 Finally, Enrique Gómez is running as the National Salvation Movement’s candidate. A lawyer, Enrique Gómez has an extensive political family being the son of journalist and politician Enrique Gómez Hurtado, the grandson of conservative politician Laureano Gómez, and the nephew of conservative politician Álvaro Gómez Hurtado, who was assassinated in 1995.
 
-The Expectations
+#### The Expectations
 
 Gustavo Petro is likely to win the most votes, but fall short of a majority. His opponents are likely to split votes so it’s unclear who will join him in the second round. Fico Gutiérrez is likely to move on if he can gain support from the center, though independent candidate Rodolfo Hernádez has been polling well and may present a challenge. Though Fajardo has the support of a major coalition, a polarized Colombian electorate will likely find him too centrist.
 
