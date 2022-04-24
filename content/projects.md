@@ -7,7 +7,7 @@ title: Projects
 
 -------------------------------------------------------------------------------
 
-### [Guatemala’s Eroding Freedoms](#guatemala's-eroding-freedoms)
+### [Guatemala’s Eroding Freedoms](#guatemalas-eroding-freedoms)
 
 March 6, [El País published a report](https://elpais.com/internacional/2022-03-06/asi-se-compra-un-estado-como-una-minera-rusa-corrompio-a-todos-los-poderes-en-guatemala.html?ssm=TW_AM_CM) on corruption, environmental degradation, and media repression in Guatemala. March 8, [the Guatemalan government passed a law](https://www.prensalibre.com/guatemala/politica/congreso-aprueba-ley-que-penaliza-el-aborto-regula-la-educacion-sexual-y-rechaza-la-diversidad-de-genero-breaking/) criminalizing abortion, limiting sex ed, and banning marriage equality. Instead of protecting Guatemalans from the harm caused by nickel mines, Congress decided to crack down on personal freedoms. 
 
