@@ -7,6 +7,9 @@ title: Projects
 
 -------------------------------------------------------------------------------
 
+### [Who will be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)
+27 April 2022 | [Utica University Center of Public Affairs and Election Research](https://www.ucpublicaffairs.com/) | By Christopher Newton
+
 ### [Guatemala’s Eroding Freedoms](#guatemalas-eroding-freedoms)
 
 March 6, [El País published a report](https://elpais.com/internacional/2022-03-06/asi-se-compra-un-estado-como-una-minera-rusa-corrompio-a-todos-los-poderes-en-guatemala.html?ssm=TW_AM_CM) on corruption, environmental degradation, and media repression in Guatemala. March 8, [the Guatemalan government passed a law](https://www.prensalibre.com/guatemala/politica/congreso-aprueba-ley-que-penaliza-el-aborto-regula-la-educacion-sexual-y-rechaza-la-diversidad-de-genero-breaking/) criminalizing abortion, limiting sex ed, and banning marriage equality. Instead of protecting Guatemalans from the harm caused by nickel mines, Congress decided to crack down on personal freedoms. 
@@ -24,11 +27,6 @@ Instead of investigating the corruption and abuse within its borders, the Guatem
 Connections to the mine penetrate all levels of the Guatemalan government, from local officials to President Alejandro Giamettei. [El País reported](https://elpais.com/internacional/2022-03-06/asi-se-compra-un-estado-como-una-minera-rusa-corrompio-a-todos-los-poderes-en-guatemala.html?ssm=TW_AM_CM) a message from the mine’s director to Giamettei requesting action to end protests in El Estor. Two weeks later, 500 soldiers plus antiriot police arrived to end the resistance.
 
 Instead of standing up for its people, the Guatemalan government has decided to stand up for mining. The effects on the environment are hitting indigenous peoples hardest. The state has demonstrated a consistent apathy towards the very people it is supposed to represent, and now they are further constricting individual freedoms in the name of protecting “the family.”
-
-
-### [Who will be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)
-27 April 2022 | [Utica University Center of Public Affairs and Election Research](https://www.ucpublicaffairs.com/) | By Christopher Newton
-
 
 ### [The Lasting Health Impact of UN Peacekeeping](https://github.com/newton-c/Can-UN-Peacekeeping-Improve-Health-Outcomes-Long-After-the-Shooting-Stops-)
 With Michelle Benson, Colin Tucker, and Chhandosi Roy.
