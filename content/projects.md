@@ -26,49 +26,8 @@ Connections to the mine penetrate all levels of the Guatemalan government, from 
 Instead of standing up for its people, the Guatemalan government has decided to stand up for mining. The effects on the environment are hitting indigenous peoples hardest. The state has demonstrated a consistent apathy towards the very people it is supposed to represent, and now they are further constricting individual freedoms in the name of protecting “the family.”
 
 
-### [Who will be Colombia's Next President?](#who-will-be-colombia-s-next-president)
-
-Colombians will head to the polls on May 29th. Eight candidates have made it on the ballot to become Colombia’s next leader; here’s who they are.
-
-#### The System
-
-The Colombian constitution binds presidents to a single, four-year term, so the incumbent Iván Duque Márquez won’t appear on the ballot.
-
-Presidential elections have two rounds. On May 29th, voters choose from any of the eight candidates; if one receives a majority, they win. If not, a second round will take place between the two candidates with the most votes, June 19th.
-
-Colombia has three major coalitions representing the major candidates: the Historic Pact for Colombia (Pacto Historico por Colombia), the Team for Colombia Coalition (Coalición Equipo por Colombia), and the Hope Center Coalition (Coalición Centro Esperanza) with five others running with smaller parties or as independents.
-
-#### [The Candidates](https://www.eltiempo.com/elecciones-2022/presidencia/candidatos-presidenciales-2022-estos-seran-los-10-aspirantes-658228)
-
-Wining 3 million votes, Gustavo Perto of the Historic Pact for Colombia party [received more support](https://markets.businessinsider.com/news/stocks/colombias-looming-presidential-election-is-set-to-be-historic-1031361612?op=1) than any other candidate during the primaries. The former M-19 militant is an economist and notable figure of the Colombian Left. Previously mayor of Bogotá (2011-13), representative, and senator, Petro made it to the second round of the 2018 presidential election before losing to Duque.
-
-Petro wants to reimagine Colombia’s economy, shifting from extraction of coal and oil, to agriculture and rural development. Critics say that oil is too ingrained in the Colombian economy to be able to reduce extraction without damaging the economy writ large.
-
-Team for Colombia Coalition’s Federico “Fico” Gutiérrez won the second most primary votes with 1.4 million. The civil engineer and former mayor of Medellín (2015-19) was [endorsed by the Centro Democrático](https://elpais.com/internacional/2022-03-14/fico-gutierrez-y-el-riesgo-de-reconocerse-como-el-candidato-de-uribe.html), party of ex-president Álvaro Uribe. Though Gutiérrez has secured a strong coalition on the right, he will need to secure voters from the center to beat Petro in a second round.
-
-Fico is running on a campaign of [order and opportunities](https://www.elespectador.com/politica/elecciones-colombia-2022/federico-gutierrez-y-sus-propuestas-presidenciales/), a broad program aimed at insecurity, corruption, democracy at risk, insufficient growth, low productivity and unemployment, poverty, and inequality. In total, he’s announced 246 proposals and 100 early goals.
-
-Ideologically between Petro and Fico is Sergio Fajardo, candidate of the Hope Center Coalition. Another former mayor of Medellín (2003-07), Fajardo also ran in 2018 but failed to make it to the second round. His campaign has focused on education, women’s rights, and food security, but he’s also discussed policies to promote science and technology.
-
-Moving to the other parties, Oxygen Green nominated Ingrid Betancourt whose 2002 presidential run was interrupted when she was kidnaped by FARC guerillas. Her focus has been on fighting corruption, though the has also advocated for cooperation with bordering Venezuela’s dictator Nicolás Maduro. Armed groups hide across the border in Venezuela while staging attacks in Colombia. Betancourt has stated that dialogue with Maduro is necessary to fight these groups. She is also a proponent of drug decriminalization and investment in Colombia’s rural economies.
-
-Rodolfo Hernández is an independent candidate running an anti-corruption campaign. The civil engineer and former mayor of Bucaramanga (also known as the City of the Parks). He’s said that Colombia’s main problem is [taxing the People for the gain of politicians](https://www.eltiempo.com/economia/sectores/rodolfo-hernandez-propuestas-economicas-del-candidato-presidencial-658298). He wants to reform public spending to invest taxes in agriculture, balancing the budget by cracking down on waste and corruption.
-
-Another independent is Luis Péres Gutiérrez. The civil engineer and mathematician was formerly mayor of Medellín (2001-03) and governor of Antioquia (2014-18). His primary policy aims to reduce the sales tax from 19% to 6% while removing all tax exemptions. He’s also supported legalizing medical and recreational marijuana to transform it into a profitable and taxable industry.
-
-Just and Free Colombia candidate, John Milton Rodríguez was elected to the senate in 2018. An industrial engineer and pastor, his wife and he founded the Peace Function Church in Cali. During the lead-up to the referendum for the peace accords negotiated with the FARC, John Milton Rodríguez was a representative for the “No” campaign.
-
-Finally, Enrique Gómez is running as the National Salvation Movement’s candidate. A lawyer, Enrique Gómez has an extensive political family being the son of journalist and politician Enrique Gómez Hurtado, the grandson of conservative politician Laureano Gómez, and the nephew of conservative politician Álvaro Gómez Hurtado, who was assassinated in 1995.
-
-#### The Expectations
-
-Gustavo Petro is likely to win the most votes, but fall short of a majority. His opponents are likely to split votes so it’s unclear who will join him in the second round. Fico Gutiérrez is likely to move on if he can gain support from the center, though independent candidate Rodolfo Hernádez has been polling well and may present a challenge. Though Fajardo has the support of a major coalition, a polarized Colombian electorate will likely find him too centrist.
-
-While Petro may finish 1st after the initial round, his detractors are likely to rally behind whoever else makes it to the second round, so it’s unclear who will get the keys to the [Casa de Nariño](https://en.wikipedia.org/wiki/Casa_de_Nari%C3%B1o).
-
-Leading up to the election, there are concerns about violence.  According to the [Armed Conflict & Events Data Project](https://acleddata.com/#/dashboard), Colombia suffered a [spike in violence](https://acleddata.com/2022/03/25/colombia-legislative-elections/) against civilians in the run-up to the congressional elections held earlier this year. As the presidential election draws nearer, it’s possible intimidation will be used to dissuade voters.
-
-The outcome will likely be a referendum on Uribismo. Should Petro, or an independent win, it’s a sign that Colombians are ready to embrace a new style of leadership. Should Fico Gutiérrrez come out on top, Colombia will spend four more years heading down its present route.
+### [Who will be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)
+27 April 2022 | [Utica University Center of Public Affairs and Election Research](https://www.ucpublicaffairs.com/) | By Christopher Newton
 
 
 ### [The Lasting Health Impact of UN Peacekeeping](https://github.com/newton-c/Can-UN-Peacekeeping-Improve-Health-Outcomes-Long-After-the-Shooting-Stops-)
