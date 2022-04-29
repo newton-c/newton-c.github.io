@@ -6,6 +6,9 @@ title: Projects
 > [GitHub: newton-c](https://github.com/newton-c/)
 
 -------------------------------------------------------------------------------
+### Homicide Rates
+{{< figure src="/assets/hom_rates.gif" height="40%" width="100%">}}
+According to the [United Nations Office on Drugs and Crime](https://dataunodc.un.org/data/homicide/Homicide%20by%20sex%20and%20age%20group) 
 
 ### [Who will be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)
 27 April 2022 | [Utica University Center of Public Affairs and Election Research](https://www.ucpublicaffairs.com/) | By Christopher Newton
