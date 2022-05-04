@@ -25,6 +25,12 @@ Instead of standing up for its people, the Guatemalan government has decided to 
 {{< figure src="/assets/hom_rates.gif" height="40%" width="100%">}}
 According to the [United Nations Office on Drugs and Crime](https://dataunodc.un.org/data/homicide/Homicide%20by%20sex%20and%20age%20group), Colombia, Jamaica, South Africa, Honduras, and El Salvador have had the worst homicide rates since 1990. Here I visualize how the rates have changed over 18 years. 
 
+-------------------------------------------------------------------------------
+### [The Efficacy of Airpower in Counterinsurgency](https://www.tandfonline.com/doi/full/10.1080/09636412.2022.2065926)
+04 May 2022 | [*Security Studies*](https://www.tandfonline.com/journals/fsst20) | by Christopher Newton and Colin Tucker
+{{< figure src="/assets/airstrike_counts.png" height="80%" width="100%">}}
+
+-------------------------------------------------------------------------------
 ### [Who will be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)
 27 April 2022 | [Utica University Center of Public Affairs and Election Research](https://www.ucpublicaffairs.com/) | By Christopher Newton
 
@@ -54,18 +60,6 @@ R: Statistical analysis, quasi-experimental methods and data visualization
 
 -------------------------------------------------------------------------------
 
-### Airstrikes and Counterinsurgency
-With Colin Tucker.
-Forthcoming in *Security Studies*
-The policy community has been debating the use of airstrikes for counterinsurgency for years. One side argues that their stealth, ability to hover, smaller payloads, and unmanned flight all combine to make drones an effective counterinsurgency tool. The other side argues that civilian casualties, and the lack of territorial control actually helps groups recruit more members, and is therefor counter productive. Using data from Afghanistan, Pakistan, Somalia, and Yemen, we conduct quantitative analysis of these arguments.
-
-
-{{< figure src="/assets/airstrike_counts.png" height="80%" width="100%">}}
-
-#### Methods:
-R: GIS, spatial modeling, matching, and data visualization
-
--------------------------------------------------------------------------------
 ### [Peacekeeping Simulation](https://github.com/newton-c/peacekeeping_simulations)
 These are my attempts at simulating the effects of peacekeeping operations. I'm starting simple and building complexity as I go. Currently, `app.py` is a simulation that looks at the monthly effect of PKO troops on battle-related deaths based on the findings of Hultman, Kathman, & Shannon (2014). It creates a web app using `streamlit` which allows the user to change the values with sliders.
 
