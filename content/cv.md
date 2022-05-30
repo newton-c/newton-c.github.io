@@ -40,11 +40,9 @@ Collected, coded, and organized data on United Nations Security Council Resoluti
 ### Publications
 *Peer-Reviewed*
 
-<ol>
-  <li>"Pursuing Peacekeeping’s Many ‘Peaces’" (with Jake Kathman, Chhandosi Roy, and Colin Tucker). Conditionally accepted. *International Peacekeeping*.</li>
-  <li>"[The Efficacy of Airpower in Counterinsurgency](https://www.tandfonline.com/doi/abs/10.1080/09636412.2022.2065926?journalCode=fsst20)" (with Colin Tucker). 2022. *Security Studies*.</li>
-</ol>
-
+1. "Pursuing Peacekeeping’s Many ‘Peaces’" (with Jake Kathman, Chhandosi Roy, and Colin Tucker). Conditionally accepted. *International Peacekeeping*.
+2. "[The Efficacy of Airpower in Counterinsurgency](https://www.tandfonline.com/doi/abs/10.1080/09636412.2022.2065926?journalCode=fsst20)" (with Colin Tucker). 2022. *Security Studies*.
+ {: reversed="reversed"}
 
 *Under Review*
 
