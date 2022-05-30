@@ -84,7 +84,7 @@ Prepared
 - Bayesian Statistics
 
 ### Conferece Attendence
-Peace Science Society (International): 2020, 2019, 2018
+Peace Science Society (International): 2021, 2020, 2019, 2018
 
 International Studies Association: 2019
 
