@@ -8,6 +8,16 @@ title: CV
 
 > [CV](https://github.com/newton-c/newton-c.github.io/tree/main/content/assets/newton_CV.pdf)
 
+### Experience
+**Instructor** University at Buffalo, SUNY (2020-2022)
+PSC430 Human Rights - I taught an undergraduate course on human rights, what causes their violation, and what policies can prevent and reduce further violations
+
+**Research Assistant** University at Buffalo, SUNY (2019-2021)
+RA for Prof. Michelle Benson and Prof. Jacob Neiheisel. Assisted with data cleaning, merging, and analysis in R
+
+**Research Fellow** University at Buffalo, SUNY (2018-2019)
+Collected, coded, and organized data on United Nations Security Council Resolutions from 1989 to 2018. Funded through the Folke Bernadotte Academy (Principal Researcher: Prof. Michelle Benson)
+
 ### Education
 **PhD Political Science** University at Buffalo, SUNY (expected 2022)
 
@@ -25,18 +35,20 @@ title: CV
 - Spanish Minor
 
 ### Publications
-- *Airstrikes and Counterinsurgency* (with Colin Tucker). Forthcoming. *Security Studies*
+*Peer-Reviewed*
+2. ``Pursuing Peacekeeping’s Many ‘Peaces’'' (with Jake Kathman, Chhandosi Roy, and Colin Tucker). Conditionally accepted. *International Peacekeeping*
+
+1. ``Airstrikes and Counterinsurgency'' (with Colin Tucker). 2022. *Security Studies*
 
 *Under Review*
-- *Pursuing Peacekeeping’s Many ‘Peaces’* (with Jake Kathman, Chhandosi Roy, and Colin Tucker)
 - *The Lasting Health Impact of UN Peacekeeping* (with Michelle Benson, Chhandosi Roy, and Colin Tucker)
 - *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* (with Chhandosi Roy)
 
 ### Working Papers
+- ``Civil War Battlefield Deaths, Rebel Power and Dissatisfaction'' (with Jacek Kugler, Michelle Benson, and Chhandosi Roy)
 - *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia\**
 - *Rebels, Resources, & Homicide\**
 - *Child Soldiers and Grown-Up Gangsters\**
-- *Displacement Under ISIS* (with Colin Tucker and Chhandosi Roy)
 
 \* Part of my dissertation
 
