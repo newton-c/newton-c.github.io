@@ -36,9 +36,9 @@ Collected, coded, and organized data on United Nations Security Council Resoluti
 
 ### Publications
 *Peer-Reviewed*
-2. ``Pursuing Peacekeeping’s Many ‘Peaces’'' (with Jake Kathman, Chhandosi Roy, and Colin Tucker). Conditionally accepted. *International Peacekeeping*
+2. "Pursuing Peacekeeping’s Many ‘Peaces’" (with Jake Kathman, Chhandosi Roy, and Colin Tucker). Conditionally accepted. *International Peacekeeping*
 
-1. ``Airstrikes and Counterinsurgency'' (with Colin Tucker). 2022. *Security Studies*
+1. "Airstrikes and Counterinsurgency" (with Colin Tucker). 2022. *Security Studies*
 
 *Under Review*
 - *The Lasting Health Impact of UN Peacekeeping* (with Michelle Benson, Chhandosi Roy, and Colin Tucker)
