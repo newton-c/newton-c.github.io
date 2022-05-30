@@ -40,26 +40,24 @@ Collected, coded, and organized data on United Nations Security Council Resoluti
 ### Publications
 *Peer-Reviewed*
 
-2. "Pursuing Peacekeeping’s Many ‘Peaces’" (with Jake Kathman, Chhandosi Roy, and Colin Tucker). Conditionally accepted. *International Peacekeeping*
+2. "Pursuing Peacekeeping’s Many ‘Peaces’" (with Jake Kathman, Chhandosi Roy, and Colin Tucker). Conditionally accepted. *International Peacekeeping*.
 
-1. "Airstrikes and Counterinsurgency" (with Colin Tucker). 2022. *Security Studies*
+1. "[The Efficacy of Airpower in Counterinsurgency](https://www.tandfonline.com/doi/abs/10.1080/09636412.2022.2065926?journalCode=fsst20)" (with Colin Tucker). 2022. *Security Studies*.
 
 *Under Review*
 
-- *The Lasting Health Impact of UN Peacekeeping* (with Michelle Benson, Chhandosi Roy, and Colin Tucker)
-- *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* (with Chhandosi Roy)
+- "The Lasting Health Impact of UN Peacekeeping" (with Michelle Benson, Chhandosi Roy, and Colin Tucker).
+- "To Kill or Not to Kill: Strategic civilian victimization by rebel groups." (with Chhandosi Roy).
 
 *Other*
 
-1. "Who Will Be Colombia's Next President?" 2022. *Utica University Center of Public Affairs and Election Research*
+1. "[Who Will Be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)" 2022. *Utica University Center of Public Affairs and Election Research.*
 
 ### Working Papers
-- "Civil War Battlefield Deaths, Rebel Power and Dissatisfaction" (with Jacek Kugler, Michelle Benson, and Chhandosi Roy)
-- *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia\**
-- *Rebels, Resources, & Homicide\**
-- *Child Soldiers and Grown-Up Gangsters\**
-
-\* Part of my dissertation
+- "Civil War Battlefield Deaths, Rebel Power and Dissatisfaction" (with Jacek Kugler, Michelle Benson, and Chhandosi Roy).
+- "Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia"
+- "Rebels, Resources, & Homicide"
+- "Child Soldiers and Grown-Up Gangsters"
 
 
 ### Conference Presentations
