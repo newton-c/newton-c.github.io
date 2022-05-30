@@ -44,6 +44,9 @@ Collected, coded, and organized data on United Nations Security Council Resoluti
 - *The Lasting Health Impact of UN Peacekeeping* (with Michelle Benson, Chhandosi Roy, and Colin Tucker)
 - *To Kill or Not to Kill: Strategic civilian victimization by rebel groups.* (with Chhandosi Roy)
 
+*Other*
+1. ``Who Will Be Colombia's Next President?'' 2022. *Utica University Center of Public Affairs and Election Research*
+
 ### Working Papers
 - ``Civil War Battlefield Deaths, Rebel Power and Dissatisfaction'' (with Jacek Kugler, Michelle Benson, and Chhandosi Roy)
 - *Media & Murder: The Effect of News Coverage on Postconflict Criminal Violence in Colombia\**
