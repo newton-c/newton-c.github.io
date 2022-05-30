@@ -1,6 +1,6 @@
 baseURL = "https://newton-c.github.io/"
 languageCode = "en-us"
-title = "Chris Newton"
+title = "Christopher Newton"
 theme = "dimension"
 #canonifyurls = true
 
