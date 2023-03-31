@@ -3,6 +3,9 @@ layout: page
 title: Projects
 ---
 
+### [Shining Path on the Offensive in Peru, Again](https://insightcrime.org/news/shining-path-offensive-peru-again/)
+21 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
+
 ### [New Strategies in Rosario, Argentina, as Monos Fight](https://insightcrime.org/news/new-strategies-in-rosario-argentina-as-monos-fight/)
 14 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
 
