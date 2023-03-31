@@ -3,6 +3,12 @@ layout: page
 title: Projects
 ---
 
+### [New Strategies in Rosario, Argentina, as Monos Fight](https://insightcrime.org/news/new-strategies-in-rosario-argentina-as-monos-fight/)
+14 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
+
+### [Gobierno refuerza seguridad en Rosario, Argentina, tras disputas entre Los Monost](https://es.insightcrime.org/noticias/gobierno-refuerza-seguridad-rosario-argentina-disputas-monos/)
+14 March 2023 | [*InSight Crime*](https://es.insightcrime.org/) | por Christopher Newton
+
 ### [Guatemala’s Eroding Freedoms](https://github.com/newton-c/newton-c.github.io/raw/main/content/assets/Guatemala_s_Eroding_Freedoms.pdf)
 
 March 6, [El País published a report](https://elpais.com/internacional/2022-03-06/asi-se-compra-un-estado-como-una-minera-rusa-corrompio-a-todos-los-poderes-en-guatemala.html?ssm=TW_AM_CM) on corruption, environmental degradation, and media repression in Guatemala. March 8, [the Guatemalan government passed a law](https://www.prensalibre.com/guatemala/politica/congreso-aprueba-ley-que-penaliza-el-aborto-regula-la-educacion-sexual-y-rechaza-la-diversidad-de-genero-breaking/) criminalizing abortion, limiting sex ed, and banning marriage equality. Instead of protecting Guatemalans from the harm caused by nickel mines, Congress decided to crack down on personal freedoms. 

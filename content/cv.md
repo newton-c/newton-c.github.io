@@ -4,11 +4,15 @@ title: CV
 ---
 
 # Christopher Newton
-> [email: cnewton2@buffalo.edu](mailto:cnewton2@buffalo.edu)
+> [email: cnewton@insightcrime.org](mailto:cnewton@insightcrime.org)
 
 > [CV](https://github.com/newton-c/newton-c.github.io/tree/main/content/assets/newton_CV.pdf)
 
 ### Experience
+**Investigator** InSight Crime (2023-present)
+
+**Intern** InSight Crime (2022)
+
 **Instructor** University at Buffalo, SUNY (2020-2022)
 
 PSC430 Human Rights - I taught an undergraduate course on human rights, what causes their violation, and what policies can prevent and reduce further violations
@@ -22,7 +26,7 @@ RA for Prof. Michelle Benson and Prof. Jacob Neiheisel. Assisted with data clean
 Collected, coded, and organized data on United Nations Security Council Resolutions from 1989 to 2018. Funded through the Folke Bernadotte Academy (Principal Researcher: Prof. Michelle Benson)
 
 ### Education
-**PhD Political Science** University at Buffalo, SUNY (expected 2022)
+**PhD Political Science** University at Buffalo, SUNY (expected 2023)
 
 - Dissertation: *The War Ends but the Killing Remains: Criminal Violence in Postconflict States*
   - *Chair:* Prof. Jacob Kathman
@@ -50,7 +54,9 @@ Collected, coded, and organized data on United Nations Security Council Resoluti
 
 *Other*
 
-1. "[Who Will Be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)" 2022. *Utica University Center of Public Affairs and Election Research.*
+1. "[New Strategies in Rosario, Argentina, as Monos Fight](https://insightcrime.org/news/new-strategies-in-rosario-argentina-as-monos-fight/)" 2023. *InSight Crime*
+
+2. "[Who Will Be Colombia's Next President?](https://www.ucpublicaffairs.com/home/2022/4/27/who-will-be-colombias-next-president)" 2022. *Utica University Center of Public Affairs and Election Research.*
 
 ### Working Papers
 - "Civil War Battlefield Deaths, Rebel Power and Dissatisfaction" (with Jacek Kugler, Michelle Benson, and Chhandosi Roy).
