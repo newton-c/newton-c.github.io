@@ -5,11 +5,7 @@
     <link>https://newton-c.github.io/</link>
     <description>Recent content on Christopher Newton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://newton-c.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://newton-c.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://newton-c.github.io/readme/</link>
@@ -43,13 +39,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://newton-c.github.io/cv/</guid>
-      <description>Christopher Newton  email: cnewton2@buffalo.edu
-  CV
- Experience Instructor University at Buffalo, SUNY (2020-2022)
+      <description>Christopher Newton email: cnewton@insightcrime.org
+CV
+Experience Investigator InSight Crime (2023-present)
+Intern InSight Crime (2022)
+Instructor University at Buffalo, SUNY (2020-2022)
 PSC430 Human Rights - I taught an undergraduate course on human rights, what causes their violation, and what policies can prevent and reduce further violations
 Research Assistant University at Buffalo, SUNY (2019-2021)
-RA for Prof. Michelle Benson and Prof. Jacob Neiheisel. Assisted with data cleaning, merging, and analysis in R
-Research Fellow University at Buffalo, SUNY (2018-2019)</description>
+RA for Prof. Michelle Benson and Prof. Jacob Neiheisel. Assisted with data cleaning, merging, and analysis in R</description>
     </item>
     
     <item>
@@ -68,8 +65,10 @@ Check back soon for the full dataset and related publications.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://newton-c.github.io/projects/</guid>
-      <description>Guatemala’s Eroding Freedoms March 6, El País published a report on corruption, environmental degradation, and media repression in Guatemala. March 8, the Guatemalan government passed a law criminalizing abortion, limiting sex ed, and banning marriage equality. Instead of protecting Guatemalans from the harm caused by nickel mines, Congress decided to crack down on personal freedoms.
-The Law for the Protection of Life and the Family (Ley para la Protección de la Vida y la Familia) defines several norms and penalties.</description>
+      <description>Will Designating Mexican Crime Groups as Terrorists Help Fight Them? 05 April 2023 | InSight Crime | by Christopher Newton
+Shining Path on the Offensive in Peru, Again 21 March 2023 | InSight Crime | by Christopher Newton
+New Strategies in Rosario, Argentina, as Monos Fight 14 March 2023 | InSight Crime | by Christopher Newton
+Gobierno refuerza seguridad en Rosario, Argentina, tras disputas entre Los Monost 14 March 2023 | InSight Crime | por Christopher Newton</description>
     </item>
     
     <item>
@@ -84,7 +83,8 @@ Methods This is a collection of readings and videos that I&amp;rsquo;ve personal
 Intoduction to Bayesian Methods Statistical Rethinking
 by Richard McElreath
 I&amp;rsquo;ve found this to be intuitive, without being overly mathy, while still being rigurours and covering a number of useful topics. The author has also made lectures freely availble here.
- Bayesian Methods in Political Science: Introduction to the Virtual Issue</description>
+Bayesian Methods in Political Science: Introduction to the Virtual Issue
+by Jeff Gill</description>
     </item>
     
     <item>
@@ -93,9 +93,9 @@ I&amp;rsquo;ve found this to be intuitive, without being overly mathy, while sti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://newton-c.github.io/software/</guid>
-      <description>UCDP ID translations   Packages for R and Python. Translates between the old and new UCDP IDs for actors, conflicts, and dyads.
- R
-   Merging statistics  For R. This builds off of the base-R merge() function to provide information about how well the two datasets merged. It adds a variables merge to the dataset with information on each row (similar to the variable _merge in STATA), as well as an output summarizing the merge.</description>
+      <description>UCDP ID translations Packages for R and Python. Translates between the old and new UCDP IDs for actors, conflicts, and dyads.
+R
+Merging statistics For R. This builds off of the base-R merge() function to provide information about how well the two datasets merged. It adds a variables merge to the dataset with information on each row (similar to the variable _merge in STATA), as well as an output summarizing the merge.</description>
     </item>
     
     <item>
