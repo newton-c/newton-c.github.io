@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 ---
+### [Will Designating Mexican Crime Groups as Terrorists Help Fight Them?](https://insightcrime.org/news/will-designating-mexican-crime-groups-terrorists-help-fight-them/)
+05 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
 
 ### [Shining Path on the Offensive in Peru, Again](https://insightcrime.org/news/shining-path-offensive-peru-again/)
 21 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
