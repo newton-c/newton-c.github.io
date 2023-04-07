@@ -3,16 +3,13 @@ layout: page
 title: Projects
 ---
 ### [Will Designating Mexican Crime Groups as Terrorists Help Fight Them?](https://insightcrime.org/news/will-designating-mexican-crime-groups-terrorists-help-fight-them/)
-05 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
+05 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/considerar-terroristas-grupos-criminales-mexico-ayudara-combatirlos/)
 
 ### [Shining Path on the Offensive in Peru, Again](https://insightcrime.org/news/shining-path-offensive-peru-again/)
-21 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
+21 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/sendero-luminoso-ofensiva-peru/)
 
 ### [New Strategies in Rosario, Argentina, as Monos Fight](https://insightcrime.org/news/new-strategies-in-rosario-argentina-as-monos-fight/)
-14 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton
-
-### [Gobierno refuerza seguridad en Rosario, Argentina, tras disputas entre Los Monost](https://es.insightcrime.org/noticias/gobierno-refuerza-seguridad-rosario-argentina-disputas-monos/)
-14 March 2023 | [*InSight Crime*](https://es.insightcrime.org/) | por Christopher Newton
+14 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/gobierno-refuerza-seguridad-rosario-argentina-disputas-monos/)
 
 ### [Guatemala’s Eroding Freedoms](https://github.com/newton-c/newton-c.github.io/raw/main/content/assets/Guatemala_s_Eroding_Freedoms.pdf)
 
