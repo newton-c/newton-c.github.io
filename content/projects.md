@@ -2,6 +2,9 @@
 layout: page
 title: Projects
 ---
+### [Ecuador Gang Massacre Highlights Intensified Fight for Drug Routes](https://insightcrime.org/news/gang-massacres-nine-ecuador-fight-drug-routes-intensifies/)
+14 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/masacre-ecuador-intensifica-lucha-rutas-narcotrafico/)
+
 ### [Will Designating Mexican Crime Groups as Terrorists Help Fight Them?](https://insightcrime.org/news/will-designating-mexican-crime-groups-terrorists-help-fight-them/)
 05 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/considerar-terroristas-grupos-criminales-mexico-ayudara-combatirlos/)
 
