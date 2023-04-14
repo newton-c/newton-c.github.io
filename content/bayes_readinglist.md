@@ -5,8 +5,6 @@ title: Readings
 
 [Methods](#methods)
 
-[Writing](#writing)
-
 # Methods
 This is a collection of readings and videos that I've personally found useful
 for learning Bayesian methods.
@@ -116,18 +114,3 @@ probability and showing obstacles that kept Bayesian methods from being the
 default for so long.
 
 ---
-
-# Writing
-*The Elements of Style*
-
-by William Strunk Jr. & E. B. White
-
----
-*Stylish Academic Writing*
-
-by Helen Sword
-
----
-[*Why I Write*](https://gutenberg.net.au/ebooks03/0300011h.html#part47)
-
-by George Orwell 
