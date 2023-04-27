@@ -2,6 +2,21 @@
 layout: page
 title: Projects
 ---
+<!-- Insert a collapsable section of text
+{{< detail-tag "CLICK ME" >}}
+This text will be hidden
+
+#### yes, even hidden code blocks! (seems like bold title dont work here too)
+
+```python
+print("hello world!")
+```
+{{< /detail-tag >}}
+-->
+
+### [Corruption Takes Center Stage in Paraguay Presidential Election](https://insightcrime.org/news/corruption-takes-center-stage-in-paraguay-presidential-election/)
+26 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/corrupcion-protagonista-elecciones-presidenciales-paraguay/)
+
 ### [Ecuador Gang Massacre Highlights Intensified Fight for Drug Routes](https://insightcrime.org/news/gang-massacres-nine-ecuador-fight-drug-routes-intensifies/)
 14 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/masacre-ecuador-intensifica-lucha-rutas-narcotrafico/)
 
@@ -14,9 +29,10 @@ title: Projects
 ### [New Strategies in Rosario, Argentina, as Monos Fight](https://insightcrime.org/news/new-strategies-in-rosario-argentina-as-monos-fight/)
 14 March 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/gobierno-refuerza-seguridad-rosario-argentina-disputas-monos/)
 
-### [Guatemala’s Eroding Freedoms](https://github.com/newton-c/newton-c.github.io/raw/main/content/assets/Guatemala_s_Eroding_Freedoms.pdf)
+<!--### [Guatemala’s Eroding Freedoms](https://github.com/newton-c/newton-c.github.io/raw/main/content/assets/Guatemala_s_Eroding_Freedoms.pdf)-->
+### Guatemala’s Eroding Freedoms
 
-March 6, [El País published a report](https://elpais.com/internacional/2022-03-06/asi-se-compra-un-estado-como-una-minera-rusa-corrompio-a-todos-los-poderes-en-guatemala.html?ssm=TW_AM_CM) on corruption, environmental degradation, and media repression in Guatemala. March 8, [the Guatemalan government passed a law](https://www.prensalibre.com/guatemala/politica/congreso-aprueba-ley-que-penaliza-el-aborto-regula-la-educacion-sexual-y-rechaza-la-diversidad-de-genero-breaking/) criminalizing abortion, limiting sex ed, and banning marriage equality. Instead of protecting Guatemalans from the harm caused by nickel mines, Congress decided to crack down on personal freedoms. 
+{{< detail-tag "**Click to Read |** March 6, [El País published a report](https://elpais.com/internacional/2022-03-06/asi-se-compra-un-estado-como-una-minera-rusa-corrompio-a-todos-los-poderes-en-guatemala.html?ssm=TW_AM_CM) on corruption, environmental degradation, and media repression in Guatemala. March 8, [the Guatemalan government passed a law](https://www.prensalibre.com/guatemala/politica/congreso-aprueba-ley-que-penaliza-el-aborto-regula-la-educacion-sexual-y-rechaza-la-diversidad-de-genero-breaking/) criminalizing abortion, limiting sex ed, and banning marriage equality. Instead of protecting Guatemalans from the harm caused by nickel mines, Congress decided to crack down on personal freedoms. " >}}<br/><br/>
 
 The Law for the Protection of Life and the Family (Ley para la Protección de la Vida y la Familia) defines several norms and penalties. It delineates a family as a man, a woman, and their children, increases the penalties for all abortions, bans gay marriage, and prohibits public and private educators from teaching sexual diversity, “gender ideology,” or anything other than heterosexual sex as normal.
 
@@ -31,6 +47,8 @@ Instead of investigating the corruption and abuse within its borders, the Guatem
 Connections to the mine penetrate all levels of the Guatemalan government, from local officials to President Alejandro Giamettei. [El País reported](https://elpais.com/internacional/2022-03-06/asi-se-compra-un-estado-como-una-minera-rusa-corrompio-a-todos-los-poderes-en-guatemala.html?ssm=TW_AM_CM) a message from the mine’s director to Giamettei requesting action to end protests in El Estor. Two weeks later, 500 soldiers plus antiriot police arrived to end the resistance.
 
 Instead of standing up for its people, the Guatemalan government has decided to stand up for mining. The effects on the environment are hitting indigenous peoples hardest. The state has demonstrated a consistent apathy towards the very people it is supposed to represent, and now they are further constricting individual freedoms in the name of protecting “the family.”
+
+{{< /detail-tag >}}<br/><br/>
 
 ### Homicide Rates
 {{< figure src="/assets/hom_rates.gif" height="40%" width="100%">}}
