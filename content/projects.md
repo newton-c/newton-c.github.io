@@ -14,6 +14,9 @@ print("hello world!")
 {{< /detail-tag >}}
 -->
 
+### [Paraguay Election Dims Chances of Corruption Crackdown](https://insightcrime.org/news/election-new-president-suggests-same-old-corruption-paraguay/)
+05 May 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/elecciones-paraguay-reducen-corrupcion/)
+
 ### [Corruption Takes Center Stage in Paraguay Presidential Election](https://insightcrime.org/news/corruption-takes-center-stage-in-paraguay-presidential-election/)
 26 April 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/corrupcion-protagonista-elecciones-presidenciales-paraguay/)
 
