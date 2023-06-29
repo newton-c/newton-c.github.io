@@ -13,11 +13,14 @@ print("hello world!")
 ```
 {{< /detail-tag >}}
 -->
+### [Crime Groups Drive Pre-Election Violence in Mexico, Brazil: Study](https://insightcrime.org/news/mexico-brazil-political-violence/)
+29 June 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/criminales-violencia-electoral-mexico-brasil/)
+
 ### [DataInSights: Latin America’s Homicide Hotspots](https://insightcrime.org/news/data-insights-latin-america-homicide-hotspots/)
-15 JUN 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton, Chris Dalby and Peter Appleby | [*leer en español*](https://es.insightcrime.org/noticias/insight-cifras-zonas-criticas-homicidios-america-latina/)
+15 June 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton, Chris Dalby and Peter Appleby | [*leer en español*](https://es.insightcrime.org/noticias/insight-cifras-zonas-criticas-homicidios-america-latina/)
 
 ### [DataInSights: The Rise and Fall of Ransom Kidnappings in Argentina](https://insightcrime.org/news/datainsights-the-rise-and-fall-of-ransom-kidnappings-in-argentina/)
-1 JUN 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/insight-en-cifras-la-disminucion-de-los-secuestros-extorsivos-en-argentina/)
+1 June 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/insight-en-cifras-la-disminucion-de-los-secuestros-extorsivos-en-argentina/)
 
 ### [Paraguay Election Dims Chances of Corruption Crackdown](https://insightcrime.org/news/election-new-president-suggests-same-old-corruption-paraguay/)
 05 May 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/elecciones-paraguay-reducen-corrupcion/)
