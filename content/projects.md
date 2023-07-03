@@ -13,6 +13,9 @@ print("hello world!")
 ```
 {{< /detail-tag >}}
 -->
+### [Can Brazil Keep Illegal Miners Off Yanomami Lands?](https://insightcrime.org/news/can-brazil-keep-illegal-miners-off-yanomami-lands/)
+03 July 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/brasil-mantener-mineros-ilegales-fuera-tierras-yanomami/)
+
 ### [Crime Groups Drive Pre-Election Violence in Mexico, Brazil: Study](https://insightcrime.org/news/mexico-brazil-political-violence/)
 29 June 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/criminales-violencia-electoral-mexico-brasil/)
 
