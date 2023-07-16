@@ -13,6 +13,9 @@ print("hello world!")
 ```
 {{< /detail-tag >}}
 -->
+### [DataInSights: Are Pretrial Detentions Fueling Organized Crime in Paraguay?](https://insightcrime.org/news/datainsights-are-pretrial-detentions-fueling-organized-crime-in-paraguay/)
+13 July 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/insight-en-cifras-detencion-preventiva-favorece-el-crimen-organizado-en-paraguay/)
+
 ### [Can Brazil Keep Illegal Miners Off Yanomami Lands?](https://insightcrime.org/news/can-brazil-keep-illegal-miners-off-yanomami-lands/)
 03 July 2023 | [*InSight Crime*](https://insightcrime.org/) | by Christopher Newton | [*leer en español*](https://es.insightcrime.org/noticias/brasil-mantener-mineros-ilegales-fuera-tierras-yanomami/)
 
